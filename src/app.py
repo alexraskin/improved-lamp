@@ -5,12 +5,12 @@ import streamlit as st
 from random_username.generate import generate_username
 
 st.set_page_config(
-    page_title="Python Username Generater",
+    page_title="Python Username Generator",
     layout="wide")
 
 emoji_list = [':smile:', ':flushed:', ':scream:', ':bowtie:', ':cold_sweat:', ':fire:', ':fist:', ':collision:', ':laughing:']
 
-st.sidebar.text('Python Username Generater')
+st.sidebar.text('Python Username Generator')
 
 col1, col2 = st.beta_columns([2, 1])
 
