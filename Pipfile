@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 streamlit = "*"
 random-username = "*"
+emoji = "*"
 
 [dev-packages]
 

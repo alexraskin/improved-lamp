@@ -1,6 +1,0 @@
-name: username-generator
-version = 0.1
-
-User should be able to set how many user names to 
-generate
-
